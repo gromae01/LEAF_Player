@@ -1,2 +1,2 @@
 # LEAF_Player
-Simple audio player. C++, Forms, BASS library
+Simple audio player. C++, Forms, BASS and fmod libraries
